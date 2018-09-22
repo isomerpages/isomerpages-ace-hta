@@ -1,0 +1,39 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+favicon: /images/favicon.png
+
+# Agency logo
+agency-logo: /images/ace-hta-logo.png
+
+# Hero Banner
+hero-title: Driving Better Decision-Making
+hero-subtitle: We use health technology assessment to inform clinical decision-making, encourage appropriate care and improve patient outcomes for all Singaporeans.
+hero-banner: /images/hero-banner.png
+
+#Call to Action Button
+button:
+  - text: Learn More
+    url: /who-we-are/
+    
+key-highlights:
+  - title: Highlight A
+    description: Important highlight A is important
+    url: https://google.com
+    external: true
+  - title: Highlight B
+    description: Important highlight B is equally important
+    url: https://yahoo.com
+    external: true
+  - title: Page A
+    description: Page A is important too
+    url: /page-A/
+
+resources-title: Guidance
+resources-subtitle: Be in the know
+resources-more-button: More Guidances
+resources-more-button-url: guidance/

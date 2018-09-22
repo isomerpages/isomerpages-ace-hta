@@ -1,0 +1,43 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Who We Are
+  url: /who-we-are/overview/
+  sub-links:
+  - title: Overview
+    url: /who-we-are/overview/
+  - title: Organisation Structure
+    url: /who-we-are/organisation-structure/
+  - title: ACE Council
+    url: /who-we-are/ace-council/
+  - title: International Advisory Panel
+    url: /who-we-are/international-advisory-panel/
+  - title: Careers
+    url: /who-we-are/careers/
+- title: Guidance
+  url: /guidance/
+  sub-links:
+  - title: All
+    url: /guidance/
+  - title: ACG
+    url: /guidance/acg/
+  - title: Drug Guidance
+    url: /guidance/drug-guidance/
+  - title: Medical Technology
+    url: /guidance/medical-technology/
+- title: Process And Methods
+  url: /process-and-methods/acg/
+  sub-links:
+  - title: ACG
+    url: /process-and-methods/acg/
+  - title: Drug
+    url: /process-and-methods/drug/
+  - title: Glossary
+    url: /process-and-methods/glossary/
+- title: Announcements
+  url: /announcements/
+- title: Contact Us
+  url: /contact-us/

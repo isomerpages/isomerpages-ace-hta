@@ -1,0 +1,23 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+#Contact Us
+
+locations:
+  # HQ Address [REQUIRED]
+  - title: Agency for Care Effectiveness
+    address: College of Medicine Building <br>16 College Road <br>Singapore 169854
+    find-directions: https://www.google.com.sg/maps/dir//maps+College+of+Medicine+Building,+16+College+Road,+Singapore+169854/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x31da19707ac4c8b3:0xa13bcca09f6b8711?sa=X&ved=2ahUKEwie-s7tlc7dAhWNV30KHdPdBUIQ9RcwC3oECAoQEw
+
+# Contact Us
+column:
+  - title: General Enquiries & Feedback
+    content:
+    - line: ace_hta@moh.gov.sg (email)
+    # If you have an email, put (email) after the actual email
+
+# Image
+image-url:
