@@ -1,0 +1,23 @@
+{
+  "name": "isomerpages-ace-hta",
+  "version": "1.0.0",
+  "description": "## Why Markdown and YAML?",
+  "main": "index.js",
+  "scripts": {
+    "test": "node misc/travis-script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isomerpages/isomerpages-ace-hta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isomerpages/isomerpages-ace-hta/issues"
+  },
+  "homepage": "https://github.com/isomerpages/isomerpages-ace-hta#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
