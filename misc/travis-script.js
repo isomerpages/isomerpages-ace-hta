@@ -45,10 +45,10 @@ async function purgeCache() {
   try {
     let KEYCDN_API_KEY = process.env.KEYCDN_API_KEY
     let KEYCDN_ZONE_ID = process.env.KEYCDN_ZONE_ID
-    
+
     console.log('Purging cache')
     let resp = await axios.get(`https://${KEYCDN_API_KEY}@api.keycdn.com/zones/purge/${KEYCDN_ZONE_ID}.json`)
-    if (resp.data.status === 200) {
+    if (resp.status === 200) {
       console.log('CDN cache has been successfully purged')
       return true
     }
